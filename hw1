@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=10">
+    <title>Document</title>
+</head>
+<body>
+    <!-- Büyük başlığımızı attık -->
+    <h1 style="text-align: center;background-color: chocolate;color: #f2f2f2;border: 2px dashed;">Yunus Yavuzhan Afşar</h1>
+<!-- ikinci başlığımızı yazdık  -->
+<h2 style="color: brown;text-align: center;">Hakkımda</h2>
+<!-- paragraf etiketimiz -->
+<p style ="font-size: large;text-align: center;">Merhaba,ben yunus yavuzhan afşar.Eskişehir teknik üniversitesi 4. sınıf bilgisayar mühendisliği öğrencisiyim<br>
+Kendimi <i>front-end</i> alanında geliştirmeye çalışıyorum.<strong>motor sürmeyi</strong> <em>oyun oynamayı</em> ve <b> dizi izlemeyi çok seviyorum</b> 
+</p>
+<hr>
+<hr>
+<div>
+<ul style="line-height: 1.5em;" >
+    <!-- Sırasız liste oluşturma -->
+    <li>Prison Break</li>
+    <li>Game Of Thrones</li>
+    <li>The Walking Dead</li>
+    <li>Kurtlar vadisi pusu</li> 
+    <li>Ezel</li>
+    
+</ul>
+</div>
+<hr>
+<hr>
+<!-- sıralı liste oluşturma -->
+<p style="font-size: larger;letter-spacing: 1.em;"> kendimi front-end alanında geliştirmeye çalışıyorum.Öğrenmem gereken diller şunlardır:
+</p>
+<ol style="line-height: 1.5em;">
+    <li>HTML5</li>
+    <li>CSS</li>
+    <li>SCSS</li>
+    <li>JAVASCRIPT</li>
+    <li>Bootstrap</li>
+    <li>Typescript</li>
+    <li>REACT NATIVE</li>
+</ol>
+</body>
+</html>
