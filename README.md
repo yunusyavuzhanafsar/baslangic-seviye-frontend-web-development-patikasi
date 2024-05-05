@@ -15,7 +15,7 @@ Açıklama Satırları Oluşturmak
 
 Başlıklar ve Paragraflarla Çalışmak
 
-Ödev 1
+Ödev1
 ---------------------------------------------------------------------------------------------------
 
 Listeler ve Diğer Özelikler
