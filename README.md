@@ -1,5 +1,6 @@
 # Patika.dev
 Başlangıç Seviye Front-End Web Development Patikası
+-----------------------------------------------------------------------------------------------
 HTML Giriş
 
 HTML Nedir
@@ -15,7 +16,7 @@ Açıklama Satırları Oluşturmak
 Başlıklar ve Paragraflarla Çalışmak
 
 Ödev 1
-
+---------------------------------------------------------------------------------------------------------
 
 Listeler ve Diğer Özelikler
 
@@ -31,7 +32,7 @@ Blok Elemenler ve Inline Elementlerle Çalışmak
 
 Ödev 2
 
-
+-------------------------------------------------------------------------------------------------------
 Ekstra Özellikler
 
 HTML Etiketlerine Ekstra Özellikler Eklemek
@@ -51,7 +52,10 @@ Bölüm Sonu Çalışması 2
 
 Ödev 3
 
-
+------------------------------------------------------------------------------------------------
 Coderbyte Challenge
 
+----------------------------------------------------------------------------------------------------
+CSS
 
+--------------
