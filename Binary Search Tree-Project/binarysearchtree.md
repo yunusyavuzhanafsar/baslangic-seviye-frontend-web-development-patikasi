@@ -5,7 +5,7 @@
 #### Example: root is x. y is found to the right of the root. To the left of it is z, etc.
 
 ```
- Step 1: 7 becomes the root of the tree.
+Step 1: 7 becomes the root of the tree.
 
                        7
 
@@ -34,7 +34,7 @@ Step 4: 8 is greater than 7, so it is placed to the right of 7.
                    /
                   1
 
- Step 5: 3 is less than 7 and less than 5, but greater than 1, so it is placed to the right of 1.
+Step 5: 3 is less than 7 and less than 5, but greater than 1, so it is placed to the right of 1.
 
                        7
                      /  \
