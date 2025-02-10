@@ -36,12 +36,12 @@
 ### 2nd Question-) Write the Big-O notation.
 
 ```
-Merge Sort of Big-O notation is O(nlogn).
+Merge Sort's time complexity in Big-O notation is O(nlogn).
 
-Average case Complexity: O(n*log n)
+Average case Complexity: O(n*logn)
 
-Worst case Complexity: O(n*log n)
+Worst case Complexity: O(n*logn)
 
-Best case Complexity: O(n*log n)
+Best case Complexity: O(n*logn)
 
 ```
