@@ -86,7 +86,7 @@ Step 9: 4 is less than 7 and 5 but greater than 1 and 3, so it is placed to the 
                      \
                       4
 
- Step 10: 2 is less than 7,5,4 and 3 but greater than 1 and 3, so it is placed to the left of 3.
+Step 10: 2 is less than 7,5,4 and 3 but greater than 1 and 3, so it is placed to the left of 3.
 
                        7
                      /  \
