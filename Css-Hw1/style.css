@@ -1,0 +1,42 @@
+
+hmtl,body{
+    margin: 0 5px;
+    padding: 0 5px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f6f6;
+}
+.name{
+    color: crimson;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    
+    
+}
+.container{
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    text-align: center;
+    
+}
+img{
+    width: 300px; 
+    height: 400px;
+    object-fit: cover;
+    
+}
+
+
+a{
+    margin-left: 10px; ;
+}
+span{
+    color: black;
+    font-weight: bold;
+}
+
+
