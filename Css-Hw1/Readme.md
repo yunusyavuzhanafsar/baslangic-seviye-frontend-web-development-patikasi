@@ -1,6 +1,7 @@
 
 Page 1 --> Anasayfa
-![alt text](127.0.0.1_5500_anasayfa.html.png)
+![127 0 0 1_5500_anasayfa html](https://github.com/user-attachments/assets/7317ae39-3a6d-4156-b438-cc1193929c98)
+
 
 Page 2 --> Ürünlerimiz
 ![127 0 0 1_5500_%C3%BCr%C3%BCnlerimiz html](https://github.com/user-attachments/assets/b5cf23b0-750e-46d1-b68f-c711020174c0)
