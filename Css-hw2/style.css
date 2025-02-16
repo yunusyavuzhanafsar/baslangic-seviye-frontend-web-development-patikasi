@@ -1,0 +1,47 @@
+
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+   
+}
+
+
+   .row1{
+    background-color: #EEEEEE;
+    margin: auto 45px;
+    
+   } 
+   .bluelink{
+    color: #0000EE;
+    font-size: 13px;
+   }
+   .mid{
+    text-align: center;
+   }
+   .line{
+    line-height: 0;
+    font-size: 13px;
+    
+   }
+   
+   .container{
+    text-align: center;
+    margin: auto 45px;
+    
+   }
+   .b{
+    border-right: #EEEEEE 2px solid;
+   }
+   
+   .c{
+    align-content: center;
+    float: left;
+    text-align: center;
+   }
+   
+ 
+
+
+
