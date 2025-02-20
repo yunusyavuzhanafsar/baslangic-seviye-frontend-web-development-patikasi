@@ -1,0 +1,159 @@
+/* Genel stil ayarları */
+html,
+body {
+  margin: 0; /* Sayfa kenar boşluklarını sıfırla */
+  padding: 0; /* Sayfa içi boşlukları sıfırla */
+  font-family: "Times New Roman", Times, serif; /* Yazı tipini belirle */
+  background-color: #e9ecef; /* Sayfa arka plan rengini açık gri yap */
+}
+
+/* Başlık ayarları */
+h1 {
+  text-align: center; /* Başlığı ortala */
+  margin-top: 100px; /* Başlık ile üst kısımdaki alanı 100px yap */
+  padding: 0px; /* Başlık için padding (iç boşluk) sıfırla */
+  font-size: 50px; /* Başlık font boyutunu 50px yap */
+}
+
+/* Paragraf ayarları */
+p {
+  text-align: center; /* Paragrafları ortala */
+  font-size: 20px; /* Paragraf font boyutunu 20px yap */
+  margin-top: 20px; /* Üst kısmı 20px boşluk bırak */
+  justify-content: center; /* İçerikleri ortala */
+  align-items: center; /* İçerikleri ortala */
+}
+
+/* .row sınıfındaki öğeleri ortala */
+.row {
+  text-align: center; /* Satırdaki tüm öğeleri ortala */
+}
+
+/* .row içinde bulunan h2 başlığının stilini ayarla */
+.row > h2 {
+  color: coral; /* Rengini mercan (coral) yap */
+}
+
+/* .row içinde bulunan ul li öğelerinin stilini ayarla */
+.row > ul > li {
+  margin: 10px; /* Liste elemanlarına 10px boşluk ekle */
+  font-size: large; /* Font boyutunu büyük yap */
+  font-weight: bold; /* Fontu kalın yap */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Yazı tipini belirle */
+  color: #012041; /* Yazı rengini koyu maviye çevir */
+  list-style-type: square; /* Liste işaretlerini kare yap */
+}
+
+/* h3 başlıklarını ortala */
+h3 {
+  text-align: center; /* Başlıkları ortala */
+}
+
+/* .text-purple sınıfındaki öğelerin rengini mor yap */
+.text-purple {
+  color: #6f42c1 !important; /* Mor renk, !important ile geçerliliğini artır */
+}
+
+/* .text-choco sınıfındaki öğelerin rengini çikolata renginde yap */
+.text-choco {
+  color: chocolate !important; /* Çikolata rengi, !important ile geçerliliğini artır */
+  margin-left: 20px; /* Sol tarafa 20px boşluk ekle */
+}
+
+/* .paragraf > p içindeki paragrafın stilini ayarla */
+.paragraf > p {
+  text-align: center; /* Paragrafı ortala */
+  font-size: 20px; /* Font boyutunu 20px yap */
+  margin-top: 20px; /* Üst kısmı 20px boşluk bırak */
+  justify-content: center; /* İçerikleri ortala */
+  align-items: center; /* İçerikleri ortala */
+  margin-left: 10px; /* Sol tarafa 10px boşluk ekle */
+  text-align: left; /* Yazı hizalamasını sola yap */
+}
+
+/* .config sınıfındaki öğe stilini ayarla */
+.config {
+  margin: 20px 100px 10px 200px; /* Kenar boşluklarını ayarla */
+  padding: 7px; /* İç boşlukları 7px yap */
+  border: 1px solid #ccc; /* Gri renkli bir sınır ekle */
+  border-radius: 10px; /* Köşeleri yuvarlat */
+  background-color: #f8f9fa; /* Arka plan rengini açık gri yap */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Hafif gölge efekti ekle */
+}
+
+/* .config sınıfındaki öğe hover durumunda stil değiştir */
+.config:hover {
+  background-color: #cedadb; /* Hover (fare üzerine gelindiğinde) arka plan rengini değiştir */
+}
+
+/* .card sınıfındaki öğelerin arka planını ayarla */
+.card {
+  background-color: #e9ecef; /* Kartın arka plan rengini açık gri yap */
+}
+
+/* Başlık için stil */
+.title1{
+  text-align: center; /* Başlığı ortala */
+  font-size: 30px; /* Font boyutunu 30px yap */
+  margin-top: 20px; /* Üst kısmı 20px boşluk bırak */
+  justify-content: center; /* İçerikleri ortala */
+  align-items: center; /* İçerikleri ortala */
+  margin-bottom: 50px; /* Alt kısmı 50px boşluk bırak */
+}
+
+/* Kart genişliğini ve yüksekliğini ayarla */
+.card {
+  width: 15rem; /* Kartın genişliğini 15rem yap */
+  height: auto; /* Yüksekliği içeriğe göre otomatik yap */
+}
+
+/* Görsellerin boyutunu ayarla */
+.fixed-image {
+  width: 100%;  /* Kartın genişliğine uyacak şekilde */
+  height: 200px; /* Yüksekliği 200px yap */
+  object-fit: cover; /* Görselleri keserek uyumlu hale getir */
+  border-top-left-radius: 8px; /* Üst sol köşeyi yuvarlat */
+  border-top-right-radius: 8px; /* Üst sağ köşeyi yuvarlat */
+}
+
+/* Eski fiyatı düzenle */
+.old-price {
+  font-size: 1rem; /* Font boyutunu 1rem yap */
+  color: #6c757d; /* Rengi gri yap */
+}
+
+/* Yeni fiyat stilini ayarla */
+.new-price {
+  font-size: 1.3rem; /* Font boyutunu 1.3rem yap */
+  color: #dc3545; /* Kırmızı renk (Bootstrap Danger rengi) */
+  font-weight: bold; /* Fontu kalın yap */
+}
+
+
+/*           Bu alttaki kısmı Yapay Zekadan Yardım Aldım */
+
+/* Başlık stilini güçlendirmek için */
+.title-enhanced {
+  font-family: 'Roboto', sans-serif; /* Daha modern bir yazı tipi */
+  font-size: 4rem; /* Büyük font boyutu */
+  font-weight: bold; /* Kalın yazı tipi */
+  background: linear-gradient(to right, #6f42c1, #dc3545); /* Renk geçişi ekleyin */
+  -webkit-background-clip: text; /* Yazının iç kısmında renk geçişi kullanmak için */
+  color: transparent; /* Yazı rengini şeffaf yap */
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Hafif bir gölge efekti */
+  animation: fadeIn 2s ease-out; /* Fade-in animasyonu ekle */
+  padding: 20px; /* İçeride biraz boşluk bırak */
+  border-radius: 10px; /* Yuvarlatılmış köşeler */
+}
+
+/* Fade-in animasyonu */
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+      transform: translateY(-50px);
+  }
+  to {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
