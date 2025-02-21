@@ -11,12 +11,12 @@ A project where I created a website using Bootstrap.
 
 Bootstrap kullanarak bir web sitesi oluşturduğum proje.
 
-### 2. [Insertion Sort-Project](./Insertion-Sort-Project)
+### 2. [Insertion Sort-Project](https://github.com/yunusyavuzhanafsar/baslangic-seviye-frontend-web-development-patikasi/blob/main/Insertion%20Sort-Project/insertion.md)
 An implementation of the Insertion Sort algorithm.
 
 Insertion Sort algoritmasının uygulaması.
 
-### 3. [Merge Sort-Project](./Merge-Sort-Project)
+### 3. [Merge Sort-Project](https://github.com/yunusyavuzhanafsar/baslangic-seviye-frontend-web-development-patikasi/blob/main/Merge%20Sort-Project/mergesort.md)
 An implementation of the Merge Sort algorithm.
 
 Merge Sort algoritmasının uygulaması.
