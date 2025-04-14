@@ -4,6 +4,13 @@ This repository contains all the assignments and projects I completed as part of
 
 Bu repository, Frontend Web Development Patikası'nda tamamladığım tüm ödevler ve projeleri içermektedir.
 
+## Technologies Used / Kullanılan Teknolojiler
+
+- HTML
+- CSS
+- JavaScript
+
+
 ## Projects / Projeler
 
 ### 1. [Bootstrap Kullanarak Web Sitesi Nasıl Yapılır](https://github.com/yunusyavuzhanafsar/baslangic-seviye-frontend-web-development-patikasi/blob/main/Bootstrap%20Kullanarak%20Web%20Sitesi%20Nas%C4%B1l%20Yap%C4%B1l%C4%B1r/Readme.md)
@@ -21,14 +28,12 @@ An implementation of the Merge Sort algorithm.
 
 Merge Sort algoritmasının uygulaması.
 
-## Technologies Used / Kullanılan Teknolojiler
 
-- HTML
-- CSS
-- JavaScript
 
-## How to Run the Projects / Projeleri Çalıştırma
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yunusyavuzhanafsar/baslangic-seviye-frontend-web-development-patikasi.git
+
+
+
+
+
+
